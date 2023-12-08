@@ -1,7 +1,7 @@
 # João Neves' CV
 
 <figure>
-<img src="assets/images/profile-picture.jpeg" alt="profile-picture" style="width:100%;text-.align:center">
+<img src="assets/images/profile-picture.jpeg" alt="profile-picture" style="width:70%;text-.align:center;border-radius:50%">
 <figcaption><b>João Neves</b></figcaption>
 </figure>
 
